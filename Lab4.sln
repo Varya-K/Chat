@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_Server", "Lab4_Server\Lab4_Server.csproj", "{B4583B9B-D066-4EE3-A5DD-704E2BA5D335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_Client", "Lab4_Client\Lab4_Client.csproj", "{80F08D61-2B57-4770-9EDA-E172572DB01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4583B9B-D066-4EE3-A5DD-704E2BA5D335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4583B9B-D066-4EE3-A5DD-704E2BA5D335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4583B9B-D066-4EE3-A5DD-704E2BA5D335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4583B9B-D066-4EE3-A5DD-704E2BA5D335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F08D61-2B57-4770-9EDA-E172572DB01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F08D61-2B57-4770-9EDA-E172572DB01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F08D61-2B57-4770-9EDA-E172572DB01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F08D61-2B57-4770-9EDA-E172572DB01E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CE39C7-6555-4758-9FA0-AF96ACE9ACF6}
+	EndGlobalSection
+EndGlobal
